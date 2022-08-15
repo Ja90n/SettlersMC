@@ -1,0 +1,9 @@
+name: SettlersMC
+version: '${project.version}'
+main: com.ja90n.settlersmc.SettlersMC
+api-version: 1.19
+authors: [ Ja90n ]
+description: Settlers 4 but in Minecraft
+website: www.blubdev.com
+commands:
+  settler:
